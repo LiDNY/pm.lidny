@@ -21,7 +21,7 @@ const linksData = [
     id: "twitter",
     title: "Twitter",
     subtitle: "i repost random tweets and sometimes post smth here",
-    url: "https://x.com/pmerrs",
+    url: "https://x.com/pemekrutoi",
     icon: "assets/icons/twitter.svg",
     iconBg: "#A1D5FF",
     iconColor: "#045E9F"
